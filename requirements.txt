@@ -1,0 +1,7 @@
+beautifulsoup4     #WebBaseLoader
+langchain_google_genai
+streamlit
+langchain
+langchain-community
+python-dotenv
+requests
